@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bauker.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bauker idle0000" x="0" y="0" width="687" height="576"/>
+	<SubTexture name="bauker idle0001" x="0" y="0" width="687" height="576"/>
+	<SubTexture name="bauker idle0002" x="687" y="0" width="687" height="576"/>
+	<SubTexture name="bauker idle0003" x="0" y="576" width="687" height="576"/>
+	<SubTexture name="bauker idle0004" x="687" y="576" width="687" height="576"/>
+	<SubTexture name="bauker idle0005" x="0" y="1152" width="687" height="576"/>
+	<SubTexture name="bauker idle0006" x="687" y="1152" width="687" height="576"/>
+	<SubTexture name="bauker idle0007" x="687" y="1152" width="687" height="576"/>
+	<SubTexture name="bauker idle0008" x="687" y="1152" width="687" height="576"/>
+	<SubTexture name="bauker idle0009" x="687" y="1152" width="687" height="576"/>
+	<SubTexture name="bauker left0000" x="0" y="1728" width="687" height="576"/>
+	<SubTexture name="bauker left0001" x="687" y="1728" width="687" height="576"/>
+	<SubTexture name="bauker left0002" x="0" y="2304" width="687" height="576"/>
+	<SubTexture name="bauker left0003" x="0" y="2304" width="687" height="576"/>
+	<SubTexture name="bauker left0004" x="687" y="2304" width="687" height="576"/>
+	<SubTexture name="bauker right0000" x="0" y="2880" width="687" height="576"/>
+	<SubTexture name="bauker right0001" x="687" y="2880" width="687" height="576"/>
+	<SubTexture name="bauker right0002" x="0" y="3456" width="687" height="576"/>
+	<SubTexture name="bauker right0003" x="0" y="3456" width="687" height="576"/>
+	<SubTexture name="bauker right0004" x="687" y="3456" width="687" height="576"/>
+</TextureAtlas>

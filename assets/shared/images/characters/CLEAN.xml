@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CLEAN.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clean down0000" x="0" y="0" width="654" height="698"/>
+	<SubTexture name="clean down0001" x="654" y="0" width="654" height="698"/>
+	<SubTexture name="clean down0002" x="1308" y="0" width="654" height="698"/>
+	<SubTexture name="clean down0003" x="1962" y="0" width="654" height="698"/>
+	<SubTexture name="clean idle0000" x="2616" y="0" width="654" height="698"/>
+	<SubTexture name="clean idle0001" x="2616" y="0" width="654" height="698"/>
+	<SubTexture name="clean idle0002" x="3270" y="0" width="654" height="698"/>
+	<SubTexture name="clean idle0003" x="0" y="698" width="654" height="698"/>
+	<SubTexture name="clean idle0004" x="654" y="698" width="654" height="698"/>
+	<SubTexture name="clean idle0005" x="1308" y="698" width="654" height="698"/>
+	<SubTexture name="clean idle0006" x="1962" y="698" width="654" height="698"/>
+	<SubTexture name="clean idle0007" x="1962" y="698" width="654" height="698"/>
+	<SubTexture name="clean idle0008" x="1962" y="698" width="654" height="698"/>
+	<SubTexture name="clean idle0009" x="1962" y="698" width="654" height="698"/>
+	<SubTexture name="clean left0000" x="2616" y="698" width="654" height="698"/>
+	<SubTexture name="clean left0001" x="3270" y="698" width="654" height="698"/>
+	<SubTexture name="clean left0002" x="0" y="1396" width="654" height="698"/>
+	<SubTexture name="clean left0003" x="654" y="1396" width="654" height="698"/>
+	<SubTexture name="clean left0004" x="654" y="1396" width="654" height="698"/>
+	<SubTexture name="clean right0000" x="1308" y="1396" width="654" height="698"/>
+	<SubTexture name="clean right0001" x="1962" y="1396" width="654" height="698"/>
+	<SubTexture name="clean right0002" x="2616" y="1396" width="654" height="698"/>
+	<SubTexture name="clean right0003" x="2616" y="1396" width="654" height="698"/>
+	<SubTexture name="clean right0004" x="3270" y="1396" width="654" height="698"/>
+	<SubTexture name="clean up0000" x="0" y="2094" width="654" height="698"/>
+	<SubTexture name="clean up0001" x="654" y="2094" width="654" height="698"/>
+	<SubTexture name="clean up0002" x="1308" y="2094" width="654" height="698"/>
+	<SubTexture name="clean up0003" x="1962" y="2094" width="654" height="698"/>
+	<SubTexture name="clean up0004" x="1962" y="2094" width="654" height="698"/>
+	<SubTexture name="clean up0005" x="2616" y="2094" width="654" height="698"/>
+</TextureAtlas>
